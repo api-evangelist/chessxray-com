@@ -72,6 +72,10 @@ Chess X-Ray offers AI-powered analysis of chess games. Users can submit their Ch
 
 Everything profiled for Chess X-Ray is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/chessxray-com/](https://apis.io/providers/chessxray-com/)** — or go straight to one of the APIs or properties below.
 
+### APIs (1)
+
+- [Chess X-Ray API](https://apis.io/apis/chessxray-com/chess-x-ray-api/) — Chess X-Ray provides AI‑powered analysis of chess games via its API. Documentation is available at the pricing page, but no machine‑readable contract was found.
+
 ### Published properties
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
@@ -95,21 +99,23 @@ Links to the company's own pages. This repository publishes no copy of their spe
 - [Website](https://chessxray.com)
 - [Documentation](https://chessxray.com/api/mcp)
 - [Pricing](https://chessxray.com/pricing)
+- [Support](https://chessxray.com/support)
 - [Blog](https://chessxray.com/blog)
 - [Terms of service](https://chessxray.com/terms)
+- [Privacy policy](https://chessxray.com/privacy)
 
 ## API Evangelist rating
 
-**Kin Score 17.0** — emerging · rubric 0.27.0 · scored 2026-11-09
+**Kin Score 18.4** — emerging · rubric 0.28.0 · scored 2026-11-25
 
 | Facet | Score |
 |---|---|
-| Discoverability | 48.2 |
+| Discoverability | 56.7 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
-| Developer ergonomics | 11.9 |
-| Access clarity | 49.5 |
+| Developer ergonomics | 16.7 |
+| Access clarity | 48.5 |
 
 **Agent readiness 21.8** — agent-aware
 
@@ -138,7 +144,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 14.5** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/chessxray-com/](https://apis.io/providers/chessxray-com/).
 
